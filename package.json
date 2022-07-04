@@ -1,0 +1,27 @@
+{
+  "name": "js-api1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmontiel0904/js-api1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmontiel0904/js-api1/issues"
+  },
+  "homepage": "https://github.com/mmontiel0904/js-api1#readme",
+  "devDependencies": {
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "nodemon": "^2.0.18",
+    "prettier": "^2.7.1"
+  }
+}
